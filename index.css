@@ -361,3 +361,19 @@ form textarea{
 .socialicons p{
     margin-top: 10%;
 }
+
+#ficon{
+    display: block;
+}
+@media screen and (max-width:480px){
+   
+   
+    .navlinks{
+        display: none;
+    }
+
+    .button button{
+        display: block;
+    }
+
+}
